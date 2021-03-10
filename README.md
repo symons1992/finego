@@ -8,3 +8,6 @@
 
 - 日志提交到ELK上或者本地
 - 监控数据通过Prometheus提交
+
+
+go version: go1.16
